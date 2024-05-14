@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`El servidor se está ejecutando en puerto: ${port}`);
+  console.log(`El servidor se está ejecutando en puerto->: ${port}`);
 });
